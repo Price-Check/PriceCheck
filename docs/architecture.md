@@ -2,4 +2,4 @@
 Приложение включает функции поиска, сортировки, сравнения предметов, отображения акций и распродаж, а также геолокацию выбранного продавца
 # Технология создания
 Для создания приложения будет использоваться фреймворк Xamarin, что позволит реализовать проект на двух платформах: IOS и Android.
-![plan](https://github.com/Price-Check/PriceCheck/blob/main/docs/plan.png)
+# ![plan](https://github.com/Price-Check/PriceCheck/blob/main/docs/plan.png)
